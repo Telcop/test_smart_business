@@ -3,10 +3,10 @@
 namespace AutoCatalog\Controllers;
 
 require __DIR__ . '/../Models/ParserXml.php';
-require __DIR__ . '/../Views/UpdateBase.php';
+require __DIR__ . '/../Models/UpdateBase.php';
 
 use AutoCatalog\Models\ParserXml;
-use AutoCatalog\Views\UpdateBase;
+use AutoCatalog\Models\UpdateBase;
 
 class ControllerBase
 {

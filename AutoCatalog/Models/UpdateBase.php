@@ -1,6 +1,6 @@
 <?php
 
-namespace AutoCatalog\Views;
+namespace AutoCatalog\Models;
 
 class UpdateBase
 {
